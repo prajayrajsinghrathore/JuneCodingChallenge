@@ -1,4 +1,4 @@
-# JuneCodingChallenge
+# June Coding Challenge: Netcompany
 
 ## Problem Statement
 
